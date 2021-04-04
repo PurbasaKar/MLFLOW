@@ -1,0 +1,15 @@
+artifact_uri: file:///home/purbasakar/Github/mlflow/examples/mlruns/0/fa3698b155224b529f9321dbc337ced6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: fa3698b155224b529f9321dbc337ced6
+run_uuid: fa3698b155224b529f9321dbc337ced6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1617450434362
+status: 1
+tags: []
+user_id: purbasakar
